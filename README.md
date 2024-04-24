@@ -6,12 +6,18 @@
 <h3>Languages and Tools:</h3>
 
 <div style="display: inline_block">
+    <img align="center" alt="GIT" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <strong>|</strong>
   <img align="center" alt="GIT" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img align="center" alt="GIT" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<strong>|</strong>
  <img align="center" alt="HTML5" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"  /> 
+ <strong>|</strong>
  <img align="center" alt="CSS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"  />
+<strong>|</strong>
  <img align="center" alt="JS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+ <strong>|</strong>
  <img align="center" alt="SASS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+<strong>|</strong>
  <img align="center" alt="GIT" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
 
  
